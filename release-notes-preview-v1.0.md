@@ -1,3 +1,7 @@
+<h1>
+  <span aria-hidden="true">🫐</span>
+  Droidberry Launcher
+</h1>
 # Droidberry Launcher preview-v1.0
 
 Droidberry Launcher turns your Android device into a clean, BlackBerry-inspired home screen built for quick access, easy navigation, and a more organized inbox.
