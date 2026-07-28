@@ -74,6 +74,7 @@ fold-aware layouts.
 - Global app icon size selector: 100 %, 120 %, or 150 % of the base tile size.
 
 ### 💾 Backup & Restore (Experimental but works most of the time)
+- Launcher setting is located separately as a standalone icon in your app drawer, search for "setting" or "droidberry"
 - Export all launcher settings (tags, gestures, dock, icon pack, widgets, overrides, …) to a
   single JSON file and save it anywhere on the device or cloud storage.
 - Restore from any previously exported JSON file.
