@@ -57,6 +57,7 @@ Droidberry Launcher turns your Android device into a clean, BlackBerry-inspired 
 - **Size options.** Adjust app icon size to 100%, 120%, or 150%.
 
 ### 💾 Backup and restore
+- **Launcher Settings** is either on the default home screen or if you have dock enabled, located separately as a standalone icon in your app drawer, search for "setting" or "droidberry"
 - **One-file export.** Export your launcher setup to a single JSON file.
 - **Store it anywhere.** Save that file on your device or in cloud storage.
 - **Restore later.** Bring your setup back from a previously exported file.
