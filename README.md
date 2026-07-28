@@ -1,6 +1,7 @@
 <h1>
   <span aria-hidden="true">🫐</span>
   Droidberry Launcher
+  Home on Reddit: https://www.reddit.com/r/DroidberryLauncher/
 </h1>
 
 A feature-rich **Android home-screen launcher** built for **phones, tablets, and foldable devices**, featuring a **BlackBerry-style Hub** — a single, unified inbox that brings every notification on the device into one easy-to-browse, chronological stream.
