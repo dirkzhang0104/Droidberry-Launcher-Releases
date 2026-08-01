@@ -1,6 +1,7 @@
 <h1>
   <span aria-hidden="true">🫐</span>
   Droidberry Launcher
+  Home on Reddit: https://www.reddit.com/r/DroidberryLauncher/
 </h1>
 
 A feature-rich **Android home-screen launcher** built for **phones, tablets, and foldable devices**, featuring a **BlackBerry-style Hub** — a single, unified inbox that brings every notification on the device into one easy-to-browse, chronological stream.
@@ -74,6 +75,7 @@ fold-aware layouts.
 - Global app icon size selector: 100 %, 120 %, or 150 % of the base tile size.
 
 ### 💾 Backup & Restore (Experimental but works most of the time)
+- Launcher setting is located separately as a standalone icon in your app drawer, search for "setting" or "droidberry"
 - Export all launcher settings (tags, gestures, dock, icon pack, widgets, overrides, …) to a
   single JSON file and save it anywhere on the device or cloud storage.
 - Restore from any previously exported JSON file.
